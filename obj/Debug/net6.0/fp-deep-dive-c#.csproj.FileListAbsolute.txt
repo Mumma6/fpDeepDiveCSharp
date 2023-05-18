@@ -1,0 +1,15 @@
+D:\Programmerings saker\fp-deep-dive-c#\bin\Debug\net6.0\fp-deep-dive-c#.exe
+D:\Programmerings saker\fp-deep-dive-c#\bin\Debug\net6.0\fp-deep-dive-c#.deps.json
+D:\Programmerings saker\fp-deep-dive-c#\bin\Debug\net6.0\fp-deep-dive-c#.runtimeconfig.json
+D:\Programmerings saker\fp-deep-dive-c#\bin\Debug\net6.0\fp-deep-dive-c#.dll
+D:\Programmerings saker\fp-deep-dive-c#\bin\Debug\net6.0\fp-deep-dive-c#.pdb
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.csproj.AssemblyReference.cache
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.AssemblyInfoInputs.cache
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.AssemblyInfo.cs
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.csproj.CoreCompileInputs.cache
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.dll
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\refint\fp-deep-dive-c#.dll
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.pdb
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\fp-deep-dive-c#.genruntimeconfig.cache
+D:\Programmerings saker\fp-deep-dive-c#\obj\Debug\net6.0\ref\fp-deep-dive-c#.dll
